@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "http-server": "^14.1.1",
+    "https-server": "^0.1.2",
+    "js-levenshtein": "^1.1.6",
+    "jsonfile": "^6.1.0",
+    "request": "^2.88.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
